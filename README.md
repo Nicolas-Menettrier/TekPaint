@@ -1,5 +1,5 @@
 # TekPaint
-Ce projet à été créer en collaboration avec :
+Ce projet a été créé en collaboration avec :
 
   - Nabil Oulladji : (https://github.com/Nabil-Oulladji/)
   - Youssef Mekkaoui : (https://github.com/DarmaN1/)
