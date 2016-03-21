@@ -1,6 +1,6 @@
 right click  : pipette
 left click   : - select (in gui)
-     	       - draw (in image)
+     	     - draw (in image)
 'r'	     : reverse
 't'	     : black and white
 black square : save
